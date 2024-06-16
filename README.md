@@ -1,1 +1,1 @@
-# clock
+A clock created with react js
